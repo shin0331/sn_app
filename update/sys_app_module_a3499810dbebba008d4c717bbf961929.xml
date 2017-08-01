@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="tcticket">67499810dbebba008d4c717bbf961926</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>NEW</link_type>
+        <map_page/>
+        <mobile_title>tctickets</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_snc_tcticket_tcticket</name>
+        <order/>
+        <override_menu_roles>true</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_snc_tcticket.biz_front</roles>
+        <survey/>
+        <survey_overwrite>true</survey_overwrite>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-06-20 02:11:30</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a3499810dbebba008d4c717bbf961929</sys_id>
+        <sys_mod_count>10</sys_mod_count>
+        <sys_name>Create tcticket for Biz Front</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="tcticket" source="x_snc_tcticket">9b34d4d8dbabba008d4c717bbf9619c0</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="tcticket">9b34d4d8dbabba008d4c717bbf9619c0</sys_scope>
+        <sys_update_name>sys_app_module_a3499810dbebba008d4c717bbf961929</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-06-20 05:20:51</sys_updated_on>
+        <timeline_page/>
+        <title>Create tcticket for Biz Front</title>
+        <uncancelable>false</uncancelable>
+        <view_name>tc1</view_name>
+        <window_name/>
+    </sys_app_module>
+</record_update>

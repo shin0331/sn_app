@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element audit="true" extends="sn_customerservice_case" label="tcticket" max_length="40" name="x_snc_tcticket_tcticket" type="collection"/>
+</database>

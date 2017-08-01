@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="Related Records" section_id="984f98d4dbebba008d4c717bbf9619d2" sys_domain="global" table="x_snc_tcticket_tcticket" version="3" view="TC_Ticket_view">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>problem</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-20 02:37:31</sys_created_on>
+            <sys_id>a04fd8d4dbebba008d4c717bbf96190f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Related Records" display_value="関連レコード" name="x_snc_tcticket_tcticket" sys_domain="global" view="104f98d4dbebba008d4c717bbf9619cd">984f98d4dbebba008d4c717bbf9619d2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-20 02:37:31</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-20 02:37:31</sys_created_on>
+            <sys_id>244fd8d4dbebba008d4c717bbf96190f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Related Records" display_value="関連レコード" name="x_snc_tcticket_tcticket" sys_domain="global" view="104f98d4dbebba008d4c717bbf9619cd">984f98d4dbebba008d4c717bbf9619d2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-20 02:37:31</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>change</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-20 02:37:31</sys_created_on>
+            <sys_id>a44fd8d4dbebba008d4c717bbf96190f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Related Records" display_value="関連レコード" name="x_snc_tcticket_tcticket" sys_domain="global" view="104f98d4dbebba008d4c717bbf9619cd">984f98d4dbebba008d4c717bbf9619d2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-20 02:37:31</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>caused_by</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-20 02:37:31</sys_created_on>
+            <sys_id>284fd8d4dbebba008d4c717bbf96190f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Related Records" display_value="関連レコード" name="x_snc_tcticket_tcticket" sys_domain="global" view="104f98d4dbebba008d4c717bbf9619cd">984f98d4dbebba008d4c717bbf9619d2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-20 02:37:31</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Related Records</caption>
+            <header>false</header>
+            <name>x_snc_tcticket_tcticket</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-20 02:37:29</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>984f98d4dbebba008d4c717bbf9619d2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Related Records</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="tcticket" source="x_snc_tcticket">9b34d4d8dbabba008d4c717bbf9619c0</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="tcticket">9b34d4d8dbabba008d4c717bbf9619c0</sys_scope>
+            <sys_update_name>sys_ui_section_984f98d4dbebba008d4c717bbf9619d2</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-20 02:37:29</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="TC Ticket view" name="TC_Ticket_view">104f98d4dbebba008d4c717bbf9619cd</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="Notes" section_id="c5a0ac18dbebba008d4c717bbf9619a2" sys_domain="global" table="x_snc_tcticket_tcticket" version="3" view="tc1">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>watch_list</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-20 02:43:33</sys_created_on>
+            <sys_id>81a0ac18dbebba008d4c717bbf9619c6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Notes" display_value="メモ" name="x_snc_tcticket_tcticket" sys_domain="global" view="cda0ac18dbebba008d4c717bbf96199e">c5a0ac18dbebba008d4c717bbf9619a2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-20 02:43:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-20 02:43:33</sys_created_on>
+            <sys_id>05a0ac18dbebba008d4c717bbf9619c6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Notes" display_value="メモ" name="x_snc_tcticket_tcticket" sys_domain="global" view="cda0ac18dbebba008d4c717bbf96199e">c5a0ac18dbebba008d4c717bbf9619a2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-20 02:43:33</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_notes_list</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-20 02:43:33</sys_created_on>
+            <sys_id>85a0ac18dbebba008d4c717bbf9619c6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Notes" display_value="メモ" name="x_snc_tcticket_tcticket" sys_domain="global" view="cda0ac18dbebba008d4c717bbf96199e">c5a0ac18dbebba008d4c717bbf9619a2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-20 02:43:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-20 02:43:33</sys_created_on>
+            <sys_id>09a0ac18dbebba008d4c717bbf9619c6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Notes" display_value="メモ" name="x_snc_tcticket_tcticket" sys_domain="global" view="cda0ac18dbebba008d4c717bbf96199e">c5a0ac18dbebba008d4c717bbf9619a2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-20 02:43:33</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comments</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-20 02:43:33</sys_created_on>
+            <sys_id>89a0ac18dbebba008d4c717bbf9619c6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Notes" display_value="メモ" name="x_snc_tcticket_tcticket" sys_domain="global" view="cda0ac18dbebba008d4c717bbf96199e">c5a0ac18dbebba008d4c717bbf9619a2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-20 02:43:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_notes</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-20 02:43:33</sys_created_on>
+            <sys_id>0da0ac18dbebba008d4c717bbf9619c6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Notes" display_value="メモ" name="x_snc_tcticket_tcticket" sys_domain="global" view="cda0ac18dbebba008d4c717bbf96199e">c5a0ac18dbebba008d4c717bbf9619a2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-20 02:43:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>activity.xml</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-20 02:43:33</sys_created_on>
+            <sys_id>8da0ac18dbebba008d4c717bbf9619c6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Activities (filtered)">444ea5c6bf310100e628555b3f0739d6</sys_ui_formatter>
+            <sys_ui_section caption="Notes" display_value="メモ" name="x_snc_tcticket_tcticket" sys_domain="global" view="cda0ac18dbebba008d4c717bbf96199e">c5a0ac18dbebba008d4c717bbf9619a2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-20 02:43:33</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>chat_activity.xml</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-20 02:43:33</sys_created_on>
+            <sys_id>81a0ac18dbebba008d4c717bbf9619c7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Chat Activity">5fd7d1a50a0007dc5b980c7840efebd5</sys_ui_formatter>
+            <sys_ui_section caption="Notes" display_value="メモ" name="x_snc_tcticket_tcticket" sys_domain="global" view="cda0ac18dbebba008d4c717bbf96199e">c5a0ac18dbebba008d4c717bbf9619a2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-20 02:43:33</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Notes</caption>
+            <header>false</header>
+            <name>x_snc_tcticket_tcticket</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-20 02:43:32</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c5a0ac18dbebba008d4c717bbf9619a2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Notes</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="tcticket" source="x_snc_tcticket">9b34d4d8dbabba008d4c717bbf9619c0</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="tcticket">9b34d4d8dbabba008d4c717bbf9619c0</sys_scope>
+            <sys_update_name>sys_ui_section_c5a0ac18dbebba008d4c717bbf9619a2</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-20 02:43:32</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="tc1" name="tc1">cda0ac18dbebba008d4c717bbf96199e</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

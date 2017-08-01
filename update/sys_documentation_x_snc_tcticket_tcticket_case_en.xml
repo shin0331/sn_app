@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="case" label="Trouble ticket" language="en" table="x_snc_tcticket_tcticket">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>case</element>
+            <help/>
+            <hint/>
+            <label>Trouble ticket</label>
+            <language>en</language>
+            <name>x_snc_tcticket_tcticket</name>
+            <plural>Trouble tickets</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-20 04:07:55</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_id>fde3f8d4db2fba008d4c717bbf96198f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Trouble ticket</sys_name>
+            <sys_package display_value="tcticket" source="x_snc_tcticket">9b34d4d8dbabba008d4c717bbf9619c0</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="tcticket">9b34d4d8dbabba008d4c717bbf9619c0</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_tcticket_tcticket_case_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-20 04:07:55</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
